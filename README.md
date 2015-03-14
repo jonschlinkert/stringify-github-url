@@ -1,6 +1,6 @@
-# stringify-github-url [![NPM version](https://badge.fury.io/js/stringify-github-url.svg)](http://badge.fury.io/js/stringify-github-url)
+# stringify-github-url [![NPM version](https://badge.fury.io/js/stringify-github-url.svg)](http://badge.fury.io/js/stringify-github-url)  [![Build Status](https://travis-ci.org/jonschlinkert/stringify-github-url.svg)](https://travis-ci.org/jonschlinkert/stringify-github-url) 
 
-> Generate a GitHub URL from an object.
+> Generate a GitHub URL from a list of arguments or an object.
 
 ## Install with [npm](npmjs.org)
 
